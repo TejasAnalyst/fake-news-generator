@@ -66,6 +66,16 @@ http://localhost:8501
 
 ## 📸 Screenshot
 
+### 🔹 Generated Output
+!Output
+<img width="1296" height="631" alt="Output" src="https://github.com/user-attachments/assets/09382a29-5e4d-4380-8d9a-01945f6838ba" />
+
+
+
+### 🔹 Home Screen
+!Home
+<img width="1294" height="667" alt="Home Screen" src="https://github.com/user-attachments/assets/3a46cae3-e4f1-4b7f-aeb8-a67ea6262246" />
+
 
 
 ---
